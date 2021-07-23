@@ -1,0 +1,19 @@
+html{
+    background-color:rgba(211, 211, 211, 0.658);
+}
+body{
+    width: 945px;
+    margin: 0 auto;
+    background-image: url(../car.jpg);
+    background-repeat: no-repeatgit ;
+    padding-top: 100px;
+}
+div{
+    background-color: rgb(255, 255, 255, .4);
+}
+h1{
+ /* margin: auto; */
+/* text-align: center; */
+height: 50px;
+
+}
